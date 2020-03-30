@@ -133,7 +133,7 @@ export default class Index extends React.Component {
 
           <div className="card mb-3">
             <div className="card-header">
-              <h3>Top 10 Countries with Most Cases</h3>
+              <h3>Top 5 Countries with Most Cases</h3>
             </div>
             <div className="card-body">
               {this.state.globalData &&
